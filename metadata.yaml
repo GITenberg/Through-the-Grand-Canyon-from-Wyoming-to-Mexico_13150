@@ -1,0 +1,37 @@
+_repo: Through-the-Grand-Canyon-from-Wyoming-to-Mexico_13150
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Wister, Owen
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '450'
+    url: http://www.gutenberg.org/2009/agents/450
+    wikipedia: http://en.wikipedia.org/wiki/Owen_Wister
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kolb, E. L. (Ellsworth Leonardson)
+    alias: Kolb, Ellsworth Leonardson
+    birthdate: 1876
+    gutenberg_agent_id: '4866'
+    url: http://www.gutenberg.org/2009/agents/4866
+description: ''
+gutenberg_issued: '2004-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F786'
+- !lcsh 'Grand Canyon (Ariz.)'
+- !lcsh 'Boats and boating -- Colorado River (Colo.-Mexico)'
+- !lcsh 'Kolb, E. L. (Ellsworth Leonardson), 1876- -- Travel -- Arizona -- Grand Canyon'
+- !lcsh 'Boats and boating -- Green River (Wyo.-Utah)'
+title: Through the Grand Canyon from Wyoming to Mexico
+url: http://www.gutenberg.org/ebooks/13150
